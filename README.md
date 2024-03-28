@@ -1,0 +1,2 @@
+# Sign Language Recognition
+ This is Basic Project of Sign Language Detection and Recognition.This project develops a real-time sign language recognition system translating American Sign Language (ASL) gestures into text for seamless communication. It utilizes Convolutional Neural Networks (CNNs) to accurately recognize hand postures from video input. The project focuses on real-time processing for facilitating smooth conversations.
